@@ -1,6 +1,6 @@
 # OIWallet - Google IO 2019
 
-[![OIWallet](https://i.imgur.com/kWZBmXQ.jpg)](https://github.com/mkiisoft/IOWallet "IOWallet")
+[![OIWallet](https://i.imgur.com/kc4hSz4.png)](https://github.com/mkiisoft/IOWallet "IOWallet")
 
 # Download APK
 [![Android 5.0+ APK](https://i.imgur.com/sBm241c.png)](http://bit.ly/IOWalletMkiiSoft "IOWallet APK")
