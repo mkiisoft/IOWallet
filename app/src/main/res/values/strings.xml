@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IOWallet</string>
+
+    <string name="onboarding_label_days">D</string>
+    <string name="onboarding_label_hours">H</string>
+    <string name="onboarding_label_mins">M</string>
+    <string name="onboarding_label_seconds">S</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="location">LOCATION</string>
+    <string name="your_ticket">YOUR TICKET</string>
+    <string name="google_io_2019">Google I/O 2019</string>
+    <string name="date">DATE: May 7-9, 2019</string>
+    <string name="remove_ticket">REMOVE TICKET</string>
+</resources>
